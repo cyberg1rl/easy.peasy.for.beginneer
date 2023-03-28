@@ -1,3 +1,4 @@
+import turtle
 def pic():
     turtle.forward(90)
     turtle.left(60)
